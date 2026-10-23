@@ -6,9 +6,8 @@ Aplicativo mobile de apresentação profissional (portfólio), desenvolvido com 
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
+- Matheus Duarte
+- Vinicius Ernani bessa dos Santos
 
 ## Descrição
 
