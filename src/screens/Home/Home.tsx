@@ -67,7 +67,10 @@ export default function Home({ navigation }: Props) {
             <Text style={styles.switchLabel}>Alterar visualização</Text>
             <Switch
               value={isLight}
-              onValueChange={toggleTheme}
+              onValueChange={() => {
+                toggleTheme();
+                Alert.alert('Switch pressionado');
+              }}
               trackColor={{ false: colors.border, true: colors.primary }}
               thumbColor="#FFFFFF"
             />

@@ -61,10 +61,10 @@ O Dev.Spot apresenta o perfil de Matheus, desenvolvedor Front-end especializado 
 > O Expo Go precisa ser compatível com a versão do SDK do projeto (veja `expo` no `package.json`). Se aparecer erro de incompatibilidade, baixe o Expo Go correspondente em [expo.dev/go](https://expo.dev/go).
 
 ## Prints
-![alt text](image.png)
+
 | Home (escuro) | Home (claro) |
 | :-: | :-: |
-| ![Home escuro](prints/home-escuro.png) | ![Home claro](prints/home-claro.png) |
+| ![Home escuro](prints/tela-inicial.png) | ![Home claro](prints/home-claro.png) |
 
 | Sobre mim (escuro) | Sobre mim (claro) |
 | :-: | :-: |
