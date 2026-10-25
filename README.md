@@ -1,4 +1,4 @@
-# Dev.Spot 🚀
+# Dev.Spot
 
 Aplicativo mobile de apresentação profissional (portfólio), desenvolvido com **React Native**, **Expo** e **TypeScript**. O app reproduz duas telas: uma **Home**, com a apresentação do desenvolvedor, e uma tela **Sobre mim**, com a biografia.
 
@@ -74,6 +74,8 @@ O Dev.Spot apresenta o perfil de Matheus, desenvolvedor Front-end especializado 
 
 ```
 App.tsx                      ponto de entrada e navegação entre telas
+
+prints
 src/
 ├── theme.ts                 paletas de cores (escuro e claro)
 ├── ThemeContext.tsx         contexto que controla o tema
